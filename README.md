@@ -84,7 +84,7 @@ Contains all the activities developed by [Gabriel Sena da Silva](https://www.lin
 - [ ] 10.3 - Jest - Simulating behaviors
 - [ ] 10.4 - Project - Asynchronous Jest and Mocking
 
-## Front-end Development :heavy_check_mark:
+## Front-end Development 
 
 ##### Block 11-A: [Introduction to React](https://github.com/guarize/trybe-exercises/tree/master/02-front-end/block-11-A-introduction-to-react) 
 
@@ -100,7 +100,7 @@ Contains all the activities developed by [Gabriel Sena da Silva](https://www.lin
 - [ ] 11-B.2 - Forms in React
 - [ ] 11-B.3 - Project - Tryunfo
 
-##### Block 12: [Component Lifecycle and React Router](https://github.com/guarize/trybe-exercises/tree/master/02-front-end/block-12-life-cycle-components-and-react-router) :heavy_check_mark:
+##### Block 12: [Component Lifecycle and React Router](https://github.com/guarize/trybe-exercises/tree/master/02-front-end/block-12-life-cycle-components-and-react-router) 
 
 - [ ] 12.1 - Component life cycle
 - [ ] 12.2 - React Router
@@ -127,7 +127,7 @@ Contains all the activities developed by [Gabriel Sena da Silva](https://www.lin
 - [ ] 15.5 - Synchronous testing with React-Redux
 - [ ] 15.6 - Project - TrybeWallet
 
-##### Block 16: [Project Trivia Game](https://github.com/guarize/trivia-game-react) :heavy_check_mark:
+##### Block 16: [Project Trivia Game](https://github.com/guarize/trivia-game-react) 
 
 - [ ] 16.1 - Project Trivia Game
 
@@ -138,7 +138,7 @@ Contains all the activities developed by [Gabriel Sena da Silva](https://www.lin
 - [ ] 17.3 - React Hooks - useEffect and custom Hooks
 - [ ] 17.4 - Project - StarWars Datatable with Context API and Hooks
 
-##### Block 18: [Project - Recipes App](https://github.com/guarize/recipes-app) :heavy_check_mark:
+##### Block 18: [Project - Recipes App](https://github.com/guarize/recipes-app) 
 
 - [ ] 18.1 - Project - Recipes App
 
@@ -195,14 +195,14 @@ Contains all the activities developed by [Gabriel Sena da Silva](https://www.lin
 - [ ] 24.4 - Testing APIs with Integration Tests
 - [ ] 24.5 - Project - Blogs API
 
-##### Block 25: [Deployment]() :heavy_check_mark:
+##### Block 25: [Deployment]()
 
 - [ ] 25.1 - Introduction - Deploy
 - [ ] 25.1 - Infrastructure - Deploy with Heroku
 - [ ] 25.2 - Deploy Docker & Heroku
 - [ ] 25.3 - Project - Stranger Things
 
-##### Block 26: [Typescript]() :heavy_check_mark:
+##### Block 26: [Typescript]() 
 
 - [ ] 26.1 - Introduction - TypeScript
 - [ ] 26.2 - Static Typesetting and Generics
