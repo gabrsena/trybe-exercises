@@ -6,7 +6,7 @@ Contains all the activities developed by [Gabriel Sena da Silva](https://www.lin
 
 ## Web Development Fundamentals :heavy_check_mark:
 
-##### Block 1: [Unix, Bash and Shell Script](https://github.com/guarize/trybe-exercises/tree/master/01-fundamentals/block-01-unix-and-shell/dia-03-unix-e-bash-part-1) :heavy_check_mark:
+##### Block 1: [Unix, Bash and Shell Script]() :heavy_check_mark:
 
 - [x] 1.3 - Introduction - Unix & Shell
 - [x] 1.3 - Unix & Bash - Part 1
@@ -18,7 +18,7 @@ Contains all the activities developed by [Gabriel Sena da Silva](https://www.lin
 - [x] 2.2 - Git & GitHub - Understanding Commands
 - [x] 2.3 - Internet - Understanding How It Works
 
-##### Block 3: [Introduction to HTML and CSS](https://github.com/guarize/trybe-exercises/tree/master/01-fundamentals/block-03-introduction-to-html-and-css) 
+##### Block 3: [Introduction to HTML and CSS]() 
 
 - [x] 3.1 - HTML & CSS - Page structures
 - [x] 3.2 - HTML & CSS - Getting Started with CSS
@@ -26,7 +26,7 @@ Contains all the activities developed by [Gabriel Sena da Silva](https://www.lin
 - [ ] 3.4 - Semantic HTML
 - [ ] 3.5 - Project - Lessons Learned
 
-##### Block 4: [Introduction to JavaScript and Programming Logic](https://github.com/guarize/trybe-exercises/tree/master/01-fundamentals/block-04-introduction-to-javascript-and-programming-logic) 
+##### Block 4: [Introduction to JavaScript and Programming Logic]() 
 
 - [ ] 4.1 - JavaScript - Getting Started
 - [ ] 4.2 - JavaScript - Array and For loop
@@ -34,7 +34,7 @@ Contains all the activities developed by [Gabriel Sena da Silva](https://www.lin
 - [ ] 4.4 - JavaScript - Objects and functions
 - [ ] 4.5 - Project - Playground Functions
 
-##### Block 5: [JavaScript: DOM, Events, and Web Storage](https://github.com/guarize/trybe-exercises/tree/master/01-fundamentals/block-05-javascript-dom-events-and-web-storage) 
+##### Block 5: [JavaScript: DOM, Events, and Web Storage]() 
 
 - [ ] 5.1 - JavaScript - DOM and selectors
 - [ ] 5.2 - JavaScript - Handling elements
@@ -47,7 +47,7 @@ Contains all the activities developed by [Gabriel Sena da Silva](https://www.lin
 - [ ] 5.7 - (Bonus) Project - Mystery Letter
 - [ ] 5.7 - (Bonus) Project - Meme Generator
 
-##### Block 6: [HTML and CSS: Forms, Flexbox and Responsive](https://github.com/guarize/trybe-exercises/tree/master/01-fundamentals/block-06-html-css-forms-flexbox-and-responsive) 
+##### Block 6: [HTML and CSS: Forms, Flexbox and Responsive]() 
 
 - [ ] 6.1 - HTML & CSS - Forms
 - [ ] 6.2 - JavaScript Libraries and CSS Frameworks
@@ -56,14 +56,14 @@ Contains all the activities developed by [Gabriel Sena da Silva](https://www.lin
 - [ ] 6.5 - Responsive CSS - Mobile First
 - [ ] 6.6 - Project - Trybewarts
 
-##### Block 7: [Introduction to JavaScript ES6 and Unit Tests](https://github.com/guarize/trybe-exercises/tree/master/01-fundamentals/block-07-introduction-to-javascript-es6-and-test-units) 
+##### Block 7: [Introduction to JavaScript ES6 and Unit Tests]() 
 
 - [ ] 7.1 - JavaScript ES6 - let, const, arrow functions and template literals
 - [ ] 7.2 - JavaScript ES6 - Objects
 - [ ] 7.3 - Unit Tests in JavaScript
 - [ ] 7.4 - Project - JavaScript Unit Testing
 
-##### Block 8: [Higher Order Functions from JavaScript ES6](https://github.com/guarize/trybe-exercises/tree/master/01-fundamentals/block-08-high-order-functions-javascript-es6) 
+##### Block 8: [Higher Order Functions from JavaScript ES6]() 
 
 - [ ] 8.1 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
 - [ ] 8.2 - JavaScript ES6 - Higher Order Functions - map and filter
@@ -71,13 +71,13 @@ Contains all the activities developed by [Gabriel Sena da Silva](https://www.lin
 - [ ] 8.4 - JavaScript ES6 - spread operator, rest parameter, destructuring and more
 - [ ] 8.5 - Project - Zoo functions
 
-##### Block 9: [Asynchronous JavaScript and Promises](https://github.com/guarize/trybe-exercises/tree/master/01-fundamentals/block-09-javascript-asynchronous-and-promises) 
+##### Block 9: [Asynchronous JavaScript and Promises]() 
 
 - [ ] 9.1 - Asynchronous JavaScript and Callbacks
 - [ ] 9.2 - JavaScript Promises
 - [ ] 9.3 - Project - Shopping Cart
 
-##### Block 10: [Automated testing with Jest](https://github.com/guarize/trybe-exercises/tree/master/01-fundamentals/block-10-automated-tests-with-jest) 
+##### Block 10: [Automated testing with Jest]() 
 
 - [ ] 10.1 - First Steps in Jest
 - [ ] 10.2 - Jest - Asynchronous Testing
@@ -86,7 +86,7 @@ Contains all the activities developed by [Gabriel Sena da Silva](https://www.lin
 
 ## Front-end Development 
 
-##### Block 11-A: [Introduction to React](https://github.com/guarize/trybe-exercises/tree/master/02-front-end/block-11-A-introduction-to-react) 
+##### Block 11-A: [Introduction to React]() 
 
 - [ ] 11-A.1 - Introduction - Front-end
 - [ ] 11-A.1 - Introduction - React
@@ -94,13 +94,13 @@ Contains all the activities developed by [Gabriel Sena da Silva](https://www.lin
 - [ ] 11-A.2 - React Components
 - [ ] 11-A.3 - Project - Movie Cards Library
 
-##### Block 11-B: [Stateful Components, Events and Forms with React](https://github.com/guarize/trybe-exercises/tree/master/02-front-end/block-11-B-stateful-components-events-and-forms-with-react) 
+##### Block 11-B: [Stateful Components, Events and Forms with React]() 
 
 - [ ] 11-B.1 - Components with state and events
 - [ ] 11-B.2 - Forms in React
 - [ ] 11-B.3 - Project - Tryunfo
 
-##### Block 12: [Component Lifecycle and React Router](https://github.com/guarize/trybe-exercises/tree/master/02-front-end/block-12-life-cycle-components-and-react-router) 
+##### Block 12: [Component Lifecycle and React Router]() 
 
 - [ ] 12.1 - Component life cycle
 - [ ] 12.2 - React Router
@@ -111,14 +111,14 @@ Contains all the activities developed by [Gabriel Sena da Silva](https://www.lin
 - [ ] 13.1 - Agile Methodologies
 - [ ] 13.2 - Project - Frontend Online Store
 
-##### Block 14: [Automated testing with React Testing Library](https://github.com/guarize/trybe-exercises/tree/master/02-front-end/block-14-automated-testing-with-react-testing-library) 
+##### Block 14: [Automated testing with React Testing Library]() 
 
 - [ ] 14.1 - RTL - First Steps
 - [ ] 14.2 - RTL - Mocks and Inputs
 - [ ] 14.3 - RTL - Testing React Router
 - [ ] 14.4 - Project - Testing in React
 
-##### Block 15: [State Management with Redux](https://github.com/guarize/trybe-exercises/tree/master/02-front-end/block-15-state-management-with-redux) 
+##### Block 15: [State Management with Redux]() 
 
 - [ ] 15.1 - Introduction to Redux - The Overall State of the Application
 - [ ] 15.2 - Using Redux in React
@@ -127,18 +127,18 @@ Contains all the activities developed by [Gabriel Sena da Silva](https://www.lin
 - [ ] 15.5 - Synchronous testing with React-Redux
 - [ ] 15.6 - Project - TrybeWallet
 
-##### Block 16: [Project Trivia Game](https://github.com/guarize/trivia-game-react) 
+##### Block 16: [Project Trivia Game]() 
 
 - [ ] 16.1 - Project Trivia Game
 
-##### Block 17: [Context API and React Hooks](https://github.com/guarize/trybe-exercises/tree/master/02-front-end/block-17-context-api-and-react-hooks) 
+##### Block 17: [Context API and React Hooks]() 
 
 - [ ] 17.1 - React Context API
 - [ ] 17.2 - React Hooks - useState and useContext
 - [ ] 17.3 - React Hooks - useEffect and custom Hooks
 - [ ] 17.4 - Project - StarWars Datatable with Context API and Hooks
 
-##### Block 18: [Project - Recipes App](https://github.com/guarize/recipes-app) 
+##### Block 18: [Project - Recipes App]() 
 
 - [ ] 18.1 - Project - Recipes App
 
