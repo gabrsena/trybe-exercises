@@ -18,19 +18,19 @@ Contains all the activities developed by [Gabriel Sena da Silva](https://www.lin
 - [x] 2.2 - Git & GitHub - Understanding Commands
 - [x] 2.3 - Internet - Understanding How It Works
 
-##### Block 3: [Introduction to HTML and CSS]() 
+##### Block 3: [Introduction to HTML and CSS]() heavy_check_mark:
 
 - [x] 3.1 - HTML & CSS - Page structures
 - [x] 3.2 - HTML & CSS - Getting Started with CSS
-- [ ] 3.3 - HTML & CSS - Selectors and positioning
-- [ ] 3.4 - Semantic HTML
-- [ ] 3.5 - Project - Lessons Learned
+- [x] 3.3 - HTML & CSS - Selectors and positioning
+- [x] 3.4 - Semantic HTML
+- [x] 3.5 - Project - Lessons Learned (https://gabrsena.github.io/projeto_lessons_learned/)
 
 ##### Block 4: [Introduction to JavaScript and Programming Logic]() 
 
-- [ ] 4.1 - JavaScript - Getting Started
-- [ ] 4.2 - JavaScript - Array and For loop
-- [ ] 4.3 - JavaScript - Programming Logic and Algorithms
+- [x] 4.1 - JavaScript - Getting Started
+- [x] 4.2 - JavaScript - Array and For loop
+- [x] 4.3 - JavaScript - Programming Logic and Algorithms
 - [ ] 4.4 - JavaScript - Objects and functions
 - [ ] 4.5 - Project - Playground Functions
 
