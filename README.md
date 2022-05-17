@@ -1,294 +1,57 @@
-# Trybe - Exercises
+#EXERCICIOS 🚀
+
+
+1- Faça cinco programas, um para cada operação aritmética básica. Seu programa deve ter duas constantes, a e b, definidas no começo com os valores que serão operados. Faça programas para:
+
+Adição (a + b)
+Subtração (a - b)
+Multiplicação (a * b)
+Divisão (a / b)
+Módulo (a % b)
+
+2- Faça um programa que retorne o maior de dois números. Defina no começo do programa duas constantes com os valores que serão comparados.
+
+3- Faça um programa que retorne o maior de três números. Defina no começo do programa três constantes com os valores que serão comparados.
+
+4- Faça um programa que, dado um valor definido numa constante, retorne "positive" se esse valor for positivo, "negative" se for negativo e "zero" caso contrário.
+
+5- Faça um programa que defina três constantes com os valores dos três ângulos internos de um triângulo. Retorne true se os ângulos representarem os ângulos de um triângulo e false, caso contrário. Se algum ângulo for inválido o programa deve retornar uma mensagem de erro.
+
+6- Escreva um programa que receba o nome de uma peça de xadrez e retorne os movimentos que ela faz.
+-Como desafio, faça o programa funcionar tanto se receber o nome de uma peça com letras maiúsculas quanto com letras minúsculas, sem aumentar a quantidade de condicionais.
+-Como dica, você pode pesquisar uma função que faz uma string ficar com todas as letras minúsculas (lower case).
+-Se a peça passada for inválida, o programa deve retornar uma mensagem de erro.
+
+7- Escreva um programa que converte uma nota dada em porcentagem (de 0 a 100) em conceitos de A a F. Siga essas regras:
+ Porcentagem >= 90 -> A
+ Porcentagem >= 80 -> B
+ Porcentagem >= 70 -> C
+ Porcentagem >= 60 -> D
+ Porcentagem >= 50 -> E
+ Porcentagem < 50 -> F
+ O programa deve retornar uma mensagem de erro e encerrar se a nota passada for menor que 0 ou maior que 100.
+ 
+8- Escreva um programa que defina três números em constantes e retorne true se pelo menos uma das três for par. Caso contrário, ele retorna false.
+
+9- Escreva um programa que defina três números em constantes e retorne true se pelo menos uma das três for ímpar. Caso contrário, ele retorna false.
+
+10-Escreva um programa que se inicie com dois valores em duas constantes diferentes: o custo de um produto e seu valor de venda. A partir dos valores, calcule quanto de lucro (valor de venda descontado o custo do produto) a empresa terá ao vender mil desses produtos.
+
+-Atente que, sobre o custo do produto, incide um imposto de 20%.
+-Seu programa também deve emitir uma mensagem de erro e encerrar caso algum dos seus valores de entrada seja menor que zero.
+-O lucro de um produto é o resultado da subtração do valor de venda pelo custo do mesmo, sendo que o imposto de 20% também faz parte do valor de custo.
+  
+ 11-Uma pessoa que trabalha de carteira assinada no Brasil tem descontados de seu salário bruto o INSS e o IR. Faça um programa que, dado um salário bruto, calcule o líquido a ser recebido.
+-A notação para um salário de R$1500,10, por exemplo, deve ser 1500.10. Para as faixas de impostos, use as seguintes referências:
+-INSS (Instituto Nacional do Seguro Social)
+-Salário bruto até R$ 1.556,94: alíquota de 8%
+-Salário bruto de R$ 1.556,95 a R$ 2.594,92: alíquota de 9%
+-Salário bruto de R$ 2.594,93 a R$ 5.189,82: alíquota de 11%
+-Salário bruto acima de R$ 5.189,82: alíquota máxima de R$ 570,88
+IR (Imposto de Renda)
+-Até R$ 1.903,98: isento de imposto de renda
+-De R$ 1.903,99 a 2.826,65: alíquota de 7,5% e parcela de R$ 142,80 a deduzir do imposto
+-De R$ 2.826,66 a R$ 3.751,05: alíquota de 15% e parcela de R$ 354,80 a deduzir do imposto
+-De R$ 3.751,06 a R$ 4.664,68: alíquota de 22,5% e parcela de R$ 636,13 a deduzir do imposto
+-Acima de R$ 4.664,68: alíquota de 27,5% e parcela de R$ 869,36 a deduzir do imposto.
 
-Contains all the activities developed by [Gabriel Sena da Silva](https://www.linkedin.com/in/0xgabrielsena/) during [Trybe's](https://www.betrybe.com/) bootcamp.
-
-> "The program has more than 1,500 hours of online classes, covering introduction to software development, front-end, back-end, computer science, software engineering, agile methodologies, and behavioral skills."
-
-## Web Development Fundamentals :heavy_check_mark:
-
-##### Block 1: [Unix, Bash and Shell Script]() :heavy_check_mark:
-
-- [x] 1.3 - Introduction - Unix & Shell
-- [x] 1.3 - Unix & Bash - Part 1
-- [x] 1.4 - Unix & Bash - Part 2
-
-##### Block 2: [Git, GitHub and Internet]() :heavy_check_mark:
-
-- [x] 2.1 - Git & GitHub - What it is and what it is used for
-- [x] 2.2 - Git & GitHub - Understanding Commands
-- [x] 2.3 - Internet - Understanding How It Works
-
-##### Block 3: [Introduction to HTML and CSS]() 
-
-- [x] 3.1 - HTML & CSS - Page structures
-- [x] 3.2 - HTML & CSS - Getting Started with CSS
-- [ ] 3.3 - HTML & CSS - Selectors and positioning
-- [ ] 3.4 - Semantic HTML
-- [ ] 3.5 - Project - Lessons Learned
-
-##### Block 4: [Introduction to JavaScript and Programming Logic]() 
-
-- [ ] 4.1 - JavaScript - Getting Started
-- [ ] 4.2 - JavaScript - Array and For loop
-- [ ] 4.3 - JavaScript - Programming Logic and Algorithms
-- [ ] 4.4 - JavaScript - Objects and functions
-- [ ] 4.5 - Project - Playground Functions
-
-##### Block 5: [JavaScript: DOM, Events, and Web Storage]() 
-
-- [ ] 5.1 - JavaScript - DOM and selectors
-- [ ] 5.2 - JavaScript - Handling elements
-- [ ] 5.3 - JavaScript - Events
-- [ ] 5.4 - JavaScript - Web Storage
-- [ ] 5.5 - Fundamentals - JavaScript - Projects
-- [ ] 5.5 - Project - Pixel Art
-- [ ] 5.6 - Project - To-Do List
-- [ ] 5.7 - (Bonus) Project - Guess the Color
-- [ ] 5.7 - (Bonus) Project - Mystery Letter
-- [ ] 5.7 - (Bonus) Project - Meme Generator
-
-##### Block 6: [HTML and CSS: Forms, Flexbox and Responsive]() 
-
-- [ ] 6.1 - HTML & CSS - Forms
-- [ ] 6.2 - JavaScript Libraries and CSS Frameworks
-- [ ] 6.3 - CSS Flexbox - Part 1
-- [ ] 6.4 - CSS Flexbox - Part 2
-- [ ] 6.5 - Responsive CSS - Mobile First
-- [ ] 6.6 - Project - Trybewarts
-
-##### Block 7: [Introduction to JavaScript ES6 and Unit Tests]() 
-
-- [ ] 7.1 - JavaScript ES6 - let, const, arrow functions and template literals
-- [ ] 7.2 - JavaScript ES6 - Objects
-- [ ] 7.3 - Unit Tests in JavaScript
-- [ ] 7.4 - Project - JavaScript Unit Testing
-
-##### Block 8: [Higher Order Functions from JavaScript ES6]() 
-
-- [ ] 8.1 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
-- [ ] 8.2 - JavaScript ES6 - Higher Order Functions - map and filter
-- [ ] 8.3 - JavaScript ES6 - Higher Order Functions - reduce
-- [ ] 8.4 - JavaScript ES6 - spread operator, rest parameter, destructuring and more
-- [ ] 8.5 - Project - Zoo functions
-
-##### Block 9: [Asynchronous JavaScript and Promises]() 
-
-- [ ] 9.1 - Asynchronous JavaScript and Callbacks
-- [ ] 9.2 - JavaScript Promises
-- [ ] 9.3 - Project - Shopping Cart
-
-##### Block 10: [Automated testing with Jest]() 
-
-- [ ] 10.1 - First Steps in Jest
-- [ ] 10.2 - Jest - Asynchronous Testing
-- [ ] 10.3 - Jest - Simulating behaviors
-- [ ] 10.4 - Project - Asynchronous Jest and Mocking
-
-## Front-end Development 
-
-##### Block 11-A: [Introduction to React]() 
-
-- [ ] 11-A.1 - Introduction - Front-end
-- [ ] 11-A.1 - Introduction - React
-- [ ] 11-A.1 - React's 'Hello, world!'!
-- [ ] 11-A.2 - React Components
-- [ ] 11-A.3 - Project - Movie Cards Library
-
-##### Block 11-B: [Stateful Components, Events and Forms with React]() 
-
-- [ ] 11-B.1 - Components with state and events
-- [ ] 11-B.2 - Forms in React
-- [ ] 11-B.3 - Project - Tryunfo
-
-##### Block 12: [Component Lifecycle and React Router]() 
-
-- [ ] 12.1 - Component life cycle
-- [ ] 12.2 - React Router
-- [ ] 12.3 - Project - TrybeTunes
-
-##### Block 13: Agile Methodologies 
-
-- [ ] 13.1 - Agile Methodologies
-- [ ] 13.2 - Project - Frontend Online Store
-
-##### Block 14: [Automated testing with React Testing Library]() 
-
-- [ ] 14.1 - RTL - First Steps
-- [ ] 14.2 - RTL - Mocks and Inputs
-- [ ] 14.3 - RTL - Testing React Router
-- [ ] 14.4 - Project - Testing in React
-
-##### Block 15: [State Management with Redux]() 
-
-- [ ] 15.1 - Introduction to Redux - The Overall State of the Application
-- [ ] 15.2 - Using Redux in React
-- [ ] 15.3 - Using Redux in React - In Practice
-- [ ] 15.4 - Using Redux in React - Asynchronous Actions
-- [ ] 15.5 - Synchronous testing with React-Redux
-- [ ] 15.6 - Project - TrybeWallet
-
-##### Block 16: [Project Trivia Game]() 
-
-- [ ] 16.1 - Project Trivia Game
-
-##### Block 17: [Context API and React Hooks]() 
-
-- [ ] 17.1 - React Context API
-- [ ] 17.2 - React Hooks - useState and useContext
-- [ ] 17.3 - React Hooks - useEffect and custom Hooks
-- [ ] 17.4 - Project - StarWars Datatable with Context API and Hooks
-
-##### Block 18: [Project - Recipes App]() 
-
-- [ ] 18.1 - Project - Recipes App
-
-## Back-end Development :hourglass_flowing_sand:
-
-##### Block 19: [Docker: Using Containers]() 
-
-- [ ] 19.1 - Introduction - Back-end
-- [ ] 19.1 - Using Containers - Docker
-- [ ] 19.2 - Image Manipulation and Creation in Docker
-- [ ] 19.3 - Orchestrating Containers with Docker Compose
-- [ ] 19.4 - Project - Docker Todo-List
-
-##### Block 20: [Introduction to SQL]() 
-
-- [ ] 19.1 - Introduction - Relational databases
-- [ ] 19.1 - SQL database
-- [ ] 19.2 - Finding Data in a Database
-- [ ] 19.3 - Filtering data in a specific way
-- [ ] 19.4 - Manipulating Tables
-- [ ] 19.5 - Project - All For One
-
-##### Block 21: [SQL Functions, JOINs and Normalization]()
-
-- [ ] 21.1 - Most commonly used functions in SQL
-- [ ] 21.2 - Unraveling JOINs
-- [ ] 21.3 - Turning ideas into a database model
-- [ ] 21.4 - Project - One For All
-
-##### Block 22: [Introduction to Web Development with Node.js]()
-
-- [ ] 22.1 - Intro - Node.js
-- [ ] 22.1 - Node.js - A JavaScript Engine
-- [ ] 22.2 - Node.js - Asynchronous streaming
-- [ ] 22.3 - Mocha, Chai and Sinon - Back-end testing with Node.js
-- [ ] 22.4 - Express - HTTP with Node.js
-- [ ] 22.5 - Express - Middlewares
-- [ ] 22.6 - Project - Talker Manager
-
-##### Block 23: [Node.js: Service Layer, Rest and Restful Architecture]()
-
-- [ ] 23.1 - Introduction - Software Architecture
-- [ ] 23.1 - Software Architecture - Model Layer
-- [ ] 23.2 - Software Architecture - Controller and Service Layer
-- [ ] 23.3 - Web Architecture - Rest and Restful
-- [ ] 23.4 - Software Architecture - Testing the Layers
-- [ ] 23.5 - Project - Store Manager
-
-##### Block 24: [Node.js: ORM and Authentication]() 
-
-- [ ] 24.1 - ORM - Application Database Interface
-- [ ] 24.2 - ORM - Associations
-- [ ] 24.3 - JWT - (JSON Web Token)
-- [ ] 24.4 - Testing APIs with Integration Tests
-- [ ] 24.5 - Project - Blogs API
-
-##### Block 25: [Deployment]()
-
-- [ ] 25.1 - Introduction - Deploy
-- [ ] 25.1 - Infrastructure - Deploy with Heroku
-- [ ] 25.2 - Deploy Docker & Heroku
-- [ ] 25.3 - Project - Stranger Things
-
-##### Block 26: [Typescript]() 
-
-- [ ] 26.1 - Introduction - TypeScript
-- [ ] 26.2 - Static Typesetting and Generics
-- [ ] 26.3 - Express with TypeScript
-- [ ] 26.4 - Project - Trybe Smith
-
-##### Block 27: [OOP and SOLID]()
-
-- [ ] 27.1 - Introduction to Object Orientation
-- [ ] 27.2 - Inheritance and Interfaces
-- [ ] 27.3 - Polymorphism
-- [ ] 27.4 - SOLID - Introduction and Principles S, O and D
-- [ ] 27.5 - SOLID - Principles L & I
-- [ ] 27.6 - Project - Trybers and Dragons
-
-##### Block 29: [Project - TFC - Trybe Futebol Clube]()
-
-- [ ] 28.1 - Project - TFC - Trybe Futebol Clube
-
-##### Block 29: [Introduction to MongoDB]()
-
-- [ ] 29.1 - Introduction - NoSQL
-- [ ] 29.1 - MongoDB - Introduction
-- [ ] 29.2 - Filter Operators
-- [ ] 29.3 - Simple Updates
-- [ ] 29.4 - Complex Updates - Arrays
-- [ ] 29.5 - Project - Commerce
-
-##### Block 30: [MongoDB with Node.js and OOP]()
-
-- [ ] 31.1 - MongoDB and MSC Architecture
-- [ ] 31.2 - MongoDB and OOP
-- [ ] 31.3 - Project - Car Shop
-
-##### Block 31: [Sockets]()
-
-- [ ] 31.1 - Sockets - TCP/UDP & NET
-- [ ] 31.2 - Sockets - Socket.io
-- [ ] 31.3 - Project - Webchat
-
-##### Block 32: [Project Trybeer II]()
-
-- [ ] 32.1 - Project - Trybeer v2
-
-## Computer Science :hourglass_flowing_sand:
-
-##### Block 33: [Computer Architecture and Networking]()
-
-- [ ] 32.1 - Introduction - Computer Science
-- [ ] 32.2 - Computer Architecture
-- [ ] 32.3 - Network Architecture
-- [ ] 32.4 - Computer networking, tools and security
-- [ ] 32.5 - Project - Exploring the Protocols
-
-##### Block 34: [Introduction to Python and Web Data Scraping]()
-
-- [ ] 33.1 - Learning Python
-- [ ] 33.2 - Data Input and Output
-- [ ] 33.3 - Data Scraping
-- [ ] 33.4 - Tests
-- [ ] 33.5 - Project - Tech news
-
-##### Block 35: [Object-Oriented Programming and Project Patterns]()
-
-- [ ] 34.1 - Introduction to object-oriented programming
-- [ ] 34.2 - Inheritance, Composition, and Interfaces
-- [ ] 34.3 - Project Standards
-- [ ] 34.4 - Project - Stock Reports
-
-##### Block 36: [Algorithms and Data Structure]()
-
-- [ ] 35.1 - Algorithm Complexity
-- [ ] 35.2 - Recursion and Problem-Solving Strategies
-- [ ] 35.3 - Sorting and searching algorithms
-- [ ] 35.4 - Project - Algorithms
-
-##### Block 37: [Data Structures: Hash and Set]()
-
-- [ ] 36.1 - Arrays
-- [ ] 36.2 - Hashmap and Dict
-- [ ] 36.3 - Set
-- [ ] 36.4 - Project - Restaurant Orders
-
-##### Block 38: [Data Structures: Stacks, Rows, and Lists]()
-
-- [ ] 37.1 - Nodes and Linked Lists
-- [ ] 37.2 - Deck
-- [ ] 37.3 - Cells
-- [ ] 37.4 - Project - TING - Trybe Is Not Google
