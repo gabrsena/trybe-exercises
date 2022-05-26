@@ -26,13 +26,13 @@ Contains all the activities developed by [Gabriel Sena da Silva](https://www.lin
 - [x] 3.4 - Semantic HTML
 - [x] 3.5 - [Project - Lessons Learned](https://gabrsena.github.io/projeto_lessons_learned/) 
 
-##### Block 4: [Introduction to JavaScript and Programming Logic]() 
+##### Block 4: [Introduction to JavaScript and Programming Logic](https://github.com/gabrsena/trybe-exercises/tree/js-bloco-4-1/fundamentos/bloco-04-Js-e-logica) :heavy_check_mark:
 
 - [x] 4.1 - JavaScript - Getting Started
 - [x] 4.2 - JavaScript - Array and For loop
 - [x] 4.3 - JavaScript - Programming Logic and Algorithms
-- [ ] 4.4 - JavaScript - Objects and functions
-- [ ] 4.5 - Project - Playground Functions
+- [x] 4.4 - JavaScript - Objects and functions
+- [x] 4.5 - Project - Playground Functions
 
 ##### Block 5: [JavaScript: DOM, Events, and Web Storage]() 
 
