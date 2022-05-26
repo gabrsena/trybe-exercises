@@ -1,6 +1,6 @@
 # BLOCO 4 - JavaScript
 
-Esse bloco pertence ao mÃ³dulo de `fundamentos` do curso da [Trybe](https://www.betrybe.com/).
+Esse bloco pertence ao módulo de `fundamentos` do curso da [Trybe](https://www.betrybe.com/).
 Nesse bloco dei os primeiros passos sobre a linguagem de programação JavaScript. 🚀🚀🚀
 Dividimos o conteúdo em cinco partes:
 
@@ -15,4 +15,4 @@ Dividimos o conteúdo em cinco partes:
 5- Projeto Playground Functions (Lições Aprendidas):
 
 
-Tendo isso em mente aqui vocÃª encontrarÃ¡ os exercÃ­cios que desenvolvi para fixar os conhecimentos que adquiri ao longo desse bloco. AlÃ©m disso tambÃ©m desenvolvi o projeto ao final de bloco para avaliar tudo o que havia aprendido, vocÃª pode acessa-lo [aqui](linkProjetoDoBloco).
+Tendo isso em mente aqui você encontrará os exercícios que desenvolvi para fixar os conhecimentos que adquiri ao longo desse bloco. Além disso também desenvolvi o projeto ao final de bloco para avaliar tudo o que havia aprendido, você pode acessa-lo [aqui](linkProjetoDoBloco).
