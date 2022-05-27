@@ -12,13 +12,13 @@ Contains all the activities developed by [Gabriel Sena da Silva](https://www.lin
 - [x] 1.3 - Unix & Bash - Part 1
 - [x] 1.4 - Unix & Bash - Part 2
 
-##### Block 2: Git, GitHub and Internet() :heavy_check_mark:
+##### Block 2: Git, GitHub and Internet :heavy_check_mark:
 
 - [x] 2.1 - Git & GitHub - What it is and what it is used for
 - [x] 2.2 - Git & GitHub - Understanding Commands
 - [x] 2.3 - Internet - Understanding How It Works
 
-##### Block 3: Introduction to HTML and CSS() :heavy_check_mark:
+##### Block 3: Introduction to HTML and CSS :heavy_check_mark:
 
 - [x] 3.1 - HTML & CSS - Page structures
 - [x] 3.2 - HTML & CSS - Getting Started with CSS
@@ -36,16 +36,12 @@ Contains all the activities developed by [Gabriel Sena da Silva](https://www.lin
 
 ##### Block 5: [JavaScript: DOM, Events, and Web Storage]() :heavy_check_mark:
 
-- [ ] 5.1 - JavaScript - DOM and selectors
-- [ ] 5.2 - JavaScript - Handling elements
-- [ ] 5.3 - JavaScript - Events
-- [ ] 5.4 - JavaScript - Web Storage
-- [ ] 5.5 - Fundamentals - JavaScript - Projects
-- [ ] 5.5 - Project - Pixel Art
-- [ ] 5.6 - Project - To-Do List
-- [ ] 5.7 - (Bonus) Project - Guess the Color
-- [ ] 5.7 - (Bonus) Project - Mystery Letter
-- [ ] 5.7 - (Bonus) Project - Meme Generator
+- [x] 5.1 - JavaScript - DOM and selectors
+- [x] 5.2 - JavaScript - Handling elements
+- [x] 5.3 - JavaScript - Events
+- [x] 5.4 - JavaScript - Web Storage
+- [x] 5.5 - Fundamentals - JavaScript - Projects
+- [x] 5.5 - Project - Pixel Art
 
 ##### Block 6: [HTML and CSS: Forms, Flexbox and Responsive]() 
 
