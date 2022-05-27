@@ -6,7 +6,7 @@ Contains all the activities developed by [Gabriel Sena da Silva](https://www.lin
 
 ## Web Development Fundamentals :heavy_check_mark:
 
-##### Block 1: [Unix, Bash and Shell Script](https://github.com/gabrsena/trybe-exercises/tree/unix-bloco-01/fundamentos/bloco-01-unix) :heavy_check_mark:
+##### Block 1: [Unix, Bash and Shell Script](https://github.com/gabrsena/trybe-exercises/tree/main/fundamentos/bloco-01-unix) :heavy_check_mark:
 
 - [x] 1.3 - Introduction - Unix & Shell
 - [x] 1.3 - Unix & Bash - Part 1
