@@ -8,5 +8,4 @@
 #### 3- GitHub
 #### 4- Realizando Branch, Merge e Commit
 
-
  ### Tendo isso em mente aqui você encontrará os exercícios que desenvolvi para fixar os conhecimentos que adquiri ao longo desse bloco.

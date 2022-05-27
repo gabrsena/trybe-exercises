@@ -1,4 +1,4 @@
-Exercícios
+# Exercícios
 
 1-Navegue até a raiz do projeto com o arquivo .txt;
 
