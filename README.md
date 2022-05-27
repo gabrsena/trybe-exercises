@@ -12,7 +12,7 @@ Contains all the activities developed by [Gabriel Sena da Silva](https://www.lin
 - [x] 1.3 - Unix & Bash - Part 1
 - [x] 1.4 - Unix & Bash - Part 2
 
-##### Block 2: Git, GitHub and Internet :heavy_check_mark:
+##### Block 2: [Git, GitHub and Internet](https://github.com/gabrsena/trybe-exercises/tree/main/fundamentos/bloco-02-git-github) :heavy_check_mark:
 
 - [x] 2.1 - Git & GitHub - What it is and what it is used for
 - [x] 2.2 - Git & GitHub - Understanding Commands
