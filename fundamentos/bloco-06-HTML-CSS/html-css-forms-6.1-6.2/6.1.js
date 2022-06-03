@@ -23,4 +23,6 @@ function clearFields() {
     clearBtn.addEventListener('click', clearFields);
     const submitBtn = document.querySelector('#submit-btn');
     submitBtn.addEventListener('click', handleSubmit);
-  };
+  }; 
+  
+  .
