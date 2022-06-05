@@ -41,16 +41,16 @@ Contains all the activities developed by [Gabriel Sena da Silva](https://www.lin
 - [x] 5.3 - JavaScript - Events
 - [x] 5.4 - JavaScript - Web Storage
 - [x] 5.5 - Fundamentals - JavaScript - Projects
-- [x] 5.5 - Project - Pixel Art
+- [x] 5.5 - [Project - Pixel Art](https://gabrsena.github.io/projeto_pixel_arte_bloco_5/)
 
 ##### Block 6: [HTML and CSS: Forms, Flexbox and Responsive]() 
 
-- [ ] 6.1 - HTML & CSS - Forms
-- [ ] 6.2 - JavaScript Libraries and CSS Frameworks
-- [ ] 6.3 - CSS Flexbox - Part 1
-- [ ] 6.4 - CSS Flexbox - Part 2
-- [ ] 6.5 - Responsive CSS - Mobile First
-- [ ] 6.6 - Project - Trybewarts
+- [x] 6.1 - HTML & CSS - Forms
+- [x] 6.2 - JavaScript Libraries and CSS Frameworks
+- [x] 6.3 - CSS Flexbox - Part 1
+- [x] 6.4 - CSS Flexbox - Part 2
+- [x] 6.5 - Responsive CSS - Mobile First
+- [x] 6.6 - Project - Trybewarts
 
 ##### Block 7: [Introduction to JavaScript ES6 and Unit Tests]() 
 
