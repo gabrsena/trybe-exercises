@@ -1,7 +1,7 @@
 # BLOCO 3 - HTML & CSS
 
 ## Esse bloco pertence ao módulo de `fundamentos` do curso da [Trybe](https://www.betrybe.com/).
-### Nesse bloco aprendi a utilizar HTML para estruturar páginas web. 🧩
+### Nesse bloco aprendi a utilizar HTML e CSS para estruturar páginas web. 🧩
 
 #### 1- Introdução HTML & CSS
 #### 2- Primeiros passos em CSS
