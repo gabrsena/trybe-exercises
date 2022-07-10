@@ -24,7 +24,7 @@ Contains all the activities developed by [Gabriel Sena da Silva](https://www.lin
 - [x] 3.2 - HTML & CSS - Getting Started with CSS
 - [x] 3.3 - HTML & CSS - Selectors and positioning
 - [x] 3.4 - Semantic HTML
-- [x] 3.5 - [Project - Lessons Learned](https://gabrsena.github.io/projeto_lessons_learned/) 
+- [x] 3.5 - [Project - Lessons Learned]() 
 
 ##### Block 4: [Introduction to JavaScript and Programming Logic](https://github.com/gabrsena/trybe-exercises/tree/main/fundamentos/bloco-04-Js-e-logica) :heavy_check_mark:
 
@@ -41,7 +41,7 @@ Contains all the activities developed by [Gabriel Sena da Silva](https://www.lin
 - [x] 5.3 - JavaScript - Events
 - [x] 5.4 - JavaScript - Web Storage
 - [x] 5.5 - Fundamentals - JavaScript - Projects
-- [x] 5.5 - [Project - Pixel Art](https://gabrsena.github.io/projeto_pixel_arte_bloco_5/)
+- [x] 5.5 - [Project - Pixel Art]()
 
 ##### Block 6: [HTML and CSS: Forms, Flexbox and Responsive]() 
 
